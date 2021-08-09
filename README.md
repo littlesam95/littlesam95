@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20littlesam95%20%20&height=200&fontSize=100)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=littlesam95)](https://solved.ac/littlesam95)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=littlesam95)](https://solved.ac/littlesam95)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={littlesam95}&show_icons=true&theme={theme})](https://github.com/{littlesam95}/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=littlesam95&show_icons=true&theme={theme})](https://github.com/littlesam95/github-readme-stats)
