@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 ## 1인분 이상 하고 싶은 정지원입니다.
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20littlesam95%20%20&height=200&fontSize=100)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=littlesam95)](https://solved.ac/littlesam95)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=littlesam95)](https://solved.ac/littlesam95)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=littlesam95&show_icons=true&theme={theme})](https://github.com/littlesam95/github-readme-stats)
 
 - **동국대학교(서울) 컴퓨터정보통신공학부 컴퓨터공학전공** 2015.03 ~ 2022.02
 - **SW 마에스트로 13기** 2022.04 ~ 2022.11
-- **네이버 부스트캠프 웹·모바일** 2023.07 ~ 2022.12
+- **네이버 부스트캠프 웹·모바일** 2023.07 ~ 2023.12
 - TOEIC 800, TOEIC Speaking IM3
 - 메이플 유니온 8900대
 
