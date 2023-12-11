@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - **SW 마에스트로 13기** 2022.04 ~ 2022.11
 - **네이버 부스트캠프 웹·모바일** 2023.07 ~ 2023.12
 - TOEIC 800, TOEIC Speaking IM3
-- 메이플 유니온 8900대
+- 메이플 유니온 9000대
 
 [블로그](https://littlesam95.tistory.com/)
 [Solved.ac](https://solved.ac/profile/littlesam95)
