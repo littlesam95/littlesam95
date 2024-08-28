@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 ### 저는 다음과 같은 활동을 했습니다.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=littlesam95&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=littlesam95)](https://solved.ac/littlesam95)
 
 &nbsp;
