@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - **네이버 부스트캠프 웹·모바일 8기** 2023.07 ~ 2023.12
 - **삼성 청년 SW 아카데미 12기** 2024.07 ~ 2025.06
 - TOEIC 800, TOEIC Speaking IM3 2023.08 ~ 2025.08
+- 정보처리기사 필기 통과 및 실기 준비중
 
 &nbsp;
 
