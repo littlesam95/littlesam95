@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 자격증
   - 정보처리기사(93점) 2025.09 ~
   - SQL 개발자(82점) 2025.06 ~
+  - 데이터 분석 준전문가(62점) 2026.02 ~
 - 어학
   - TOEIC Speaking AL(160점) 2025.08 ~ 2027.08
   - OPIc IL 2025.07 ~ 2027.07
