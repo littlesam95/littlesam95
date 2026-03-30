@@ -60,16 +60,16 @@ Here are some ideas to get you started:
 
 ### 저는 다음과 같은 활동을 했습니다.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=littlesam95&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=littlesam95&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 [![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=littlesam95)](https://solved.ac/littlesam95)
 
-&nbsp;
+<!--&nbsp;
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=littlesam95&show_icons=true&theme={theme})](https://github.com/littlesam95/github-readme-stats)
 
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlesam95&layout=compact)](https://github.com/littlesam95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlesam95&layout=compact)](https://github.com/littlesam95/github-readme-stats)-->
 
 &nbsp;
 ### 저의 학습 내용을 기록한 사이트입니다.
